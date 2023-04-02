@@ -1,0 +1,29 @@
+*{
+    margin:2px;
+    padding:2px;
+}
+
+h3{
+    text-align: center;
+    color:rgb(15, 79, 135);
+}
+
+.container{
+   margin:10% auto;
+    box-shadow: 0 2px 8px rgba(36, 147, 245, 0.56);
+    width:65%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.container p{
+    color:rgb(70, 122, 165);
+    
+}
+
+button{
+    margin:5px;
+    background-color:rgb(85, 145, 198);
+    width:10vw;
+    color:black;
+    
+}
